@@ -14,8 +14,8 @@ A repository to help you start your open source journey! 💫 <br>
 Use this repository to create your first practice Pull Request. 
 
 1.) Fork the Repository  
-2.) Create a file with your GitHub username in the Contributors folder   
-3.) Add your Name with GitHub username to file e.g. Swapnil M Mane (@swapnilmmane)  
+2.) Open the Members.md file
+3.) Add your Name with GitHub username to it. 
 4.) Raise the Pull Request  
 
 In case of any queries, do contact me :)<br>
