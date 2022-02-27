@@ -13,8 +13,8 @@ A repository to help you start your open source journey! 💫 <br>
 # Make your first Pull Request!
 Use this repository to create your first practice Pull Request. 
 
-1.) Fork the Repository  
-2.) Open the Members.md file
+1.) Fork the Repository   
+2.) Open the [Members.md](Members.md) file <br>
 3.) Add your Name with GitHub username to it. 
 4.) Raise the Pull Request  
 
